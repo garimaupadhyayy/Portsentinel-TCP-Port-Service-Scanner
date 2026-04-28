@@ -8,7 +8,6 @@ def print_banner():
 ║        PortSentinel         ║
 ╚═════════════════════════════╝
 """)
-
 def main():
     print_banner()
 
